@@ -15,6 +15,7 @@ Other Features :
 - Positive and Negative numbers are supported
 - Decimal values are also supported
 - Lanscape and Potrait Orientation supported
+- Univeral App supports both iPhone and iPad
 
 # Screenshots
 
