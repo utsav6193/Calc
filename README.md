@@ -1,14 +1,14 @@
-# Calculator (iOS - Swift)
+# CalC (iOS - Swift)
 
 A calculator app that mimics a handheld calculator written in Swift 2.0
 
 Basic Calculator Functions :
 
-Addition        +
-Subtraction     -   
-Multiplication  *
-Division        /
-Square Root     √
+- Addition        +
+- Subtraction     -   
+- Multiplication  *
+- Division        /
+- Square Root     √
 
 Other Features : 
 
