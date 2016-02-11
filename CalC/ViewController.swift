@@ -104,7 +104,7 @@ class ViewController: UIViewController {
     
     func updateCalculatorDisplay() {
         // If the value is an integer, don't show a decimal point
-        let intCalcVal = Int(calcVal)
+        let intCalcVal = UInt64(calcVal)
         if calcVal - Double(intCalcVal) == 0 {
             resultField.text = "\(intCalcVal)"
         } else {
