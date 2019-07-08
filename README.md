@@ -28,7 +28,7 @@ Potrait Layout
 Landscape Layout
 
 <p align="center">
-  <img src="Screenshots/screen2.png" width="1334" height="750">
+  <img src="Screenshots/screen2.png" width="750" height="1334">
 </p>
 
 # Requirements
