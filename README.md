@@ -21,13 +21,15 @@ Other Features :
 
 Potrait Layout
 
-![](Screenshots/screen1.png) 
-
+<p align="center">
+  <img src="Screenshots/screen1.png" width="750" height="1334">
+</p>
 
 Landscape Layout
 
-![](Screenshots/screen2.png) 
-
+<p align="center">
+  <img src="Screenshots/screen2.png" width="1334" height="750">
+</p>
 
 # Requirements
 
